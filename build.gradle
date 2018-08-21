@@ -36,6 +36,7 @@ dependencies {
 
     testCompile("org.springframework.boot:spring-boot-starter-test")
     testCompileOnly 'junit:junit:4.+'
+	testCompile('nl.jqno.equalsverifier:equalsverifier:2.4.8')
 }
 
 
